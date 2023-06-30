@@ -1,4 +1,4 @@
-<img src="disco-ligh.png" min-width="300px" max-width="300px" width="300px" align="right" alt="light beam">
+<img src="disco-light.png" min-width="300px" max-width="300px" width="300px" align="right" alt="light beam">
 
 ## Hello World! 👾
 
