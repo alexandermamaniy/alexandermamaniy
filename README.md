@@ -2,7 +2,7 @@
 
 ## Hello World! 👾
 
-I'm a Software Engineer who does freelance as game developer on my free time.
+I am a software engineer, always looking to learn new skills, take on additional responsibilities and grow professionally.
 
 ![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akey96&show_icons=true&count_private=true&border_color=5D3FD3&bg_color=0000&title_color=5D3FD3&text_color=cfcfcf)
 
@@ -52,7 +52,7 @@ I'm a Software Engineer who does freelance as game developer on my free time.
           <img src="https://img.shields.io/badge/Sptring-%233880FF.svg?style=for-the-badge&logo=sptring&logoColor=white"/>
           <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
           <img src="https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB"/>
-          <img src="https://img.shields.io/badge/ASP.NET Web-APIs-%2320232a.svg?style=for-the-badge&logo=ASP.NET&logoColor=%2361DAFB"/>
+          <img src="https://img.shields.io/badge/ASP.NET Web-APIs-%5D3FD3.svg?style=for-the-badge&logo=ASP.NET&logoColor=%2361DAFB"/>
       </p>
     </details>
   </blockquote>
@@ -62,7 +62,7 @@ I'm a Software Engineer who does freelance as game developer on my free time.
 <summary><strong>Others</strong></summary>
   <p align="left">
       <img src="https://img.shields.io/badge/Linux-%23E34F26.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/docker%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/docker-%2307405e.svg?style=for-the-badge&logoColor=white"/>
       <img src="https://img.shields.io/badge/jasper-report%23E34F26.svg?style=for-the-badge&logo=jasper&logoColor=white"/>
   </p>
 </details>
