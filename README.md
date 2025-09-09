@@ -1,85 +1,46 @@
-<img src="disco-light.png" min-width="300px" max-width="300px" width="300px" align="right" alt="light beam">
+# Hi there, I'm Alexander Mamani! 👋
 
-## Hello World! 👾
+💡 **Passionate about building innovative solutions**
 
-I am a software engineer, always looking to learn new skills, take on additional responsibilities and grow professionally.
+*DevOps and Cloud Engineer | Fullstack Web Developer | CI/CD & Infrastructure Automation | Linux*
 
-![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akey96&show_icons=true&count_private=true&border_color=5D3FD3&bg_color=0000&title_color=5D3FD3&text_color=cfcfcf)
+Welcome to my GitHub profile! I'm a passionate and curious Software Engineer with hands-on experience in AWS infrastructure, CI/CD automation, and containerised application delivery. Skilled in Java, Python, Docker, Kubernetes, and Jenkins, with a strong focus on scalable, secure, and resilient system design using modern architectural patterns. Passionate about enabling efficient development workflows and delivering robust cloud-native solutions.
 
-<hr>
+---
 
-#### Tech stack:
-<details>
-<summary><strong>Programming Languages</strong></summary>
-  <p align="left">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/bash-%232C2D72.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-  </p>
-</details>
+## 🛠️ **Technologies & Tools**
 
-<details>
-<summary><strong>Database</strong></summary>
-  <blockquote>
-    <details>
-    <summary>Relational</summary>
-      <p align="left">
-          <img src="https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-      </p>
-    </details>
-  </blockquote>
-  <blockquote>
-    <details>
-    <summary>Non-Relational</summary>
-      <p align="left">
-          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      </p>
-    </details>
-  </blockquote>
-</details>
-<details>
-<summary><strong>Frameworks</strong></summary>
-  <blockquote>
-    <details>
-    <summary>Web</summary>
-      <p align="left">
-          <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Sptring-%233880FF.svg?style=for-the-badge&logo=sptring&logoColor=white"/>
-          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB"/>
-          <img src="https://img.shields.io/badge/ASP.NET Web-APIs-%5D3FD3.svg?style=for-the-badge&logo=ASP.NET&logoColor=%2361DAFB"/>
-      </p>
-    </details>
-  </blockquote>
-</details>
+![Linux](https://skillicons.dev/icons?i=arch)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Linux](https://skillicons.dev/icons?i=bash)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript GIF](https://skillicons.dev/icons?i=javascript)
+![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Kubernetes](https://skillicons.dev/icons?i=terraform)
+![Kubernetes](https://skillicons.dev/icons?i=ansible)
+![Kubernetes](https://skillicons.dev/icons?i=jenkins)
+![Kubernetes](https://skillicons.dev/icons?i=githubactions)
+![Kubernetes](https://skillicons.dev/icons?i=nginx)
+![Kubernetes](https://skillicons.dev/icons?i=angular)
+![Kubernetes](https://skillicons.dev/icons?i=npm)
+![Kubernetes](https://skillicons.dev/icons?i=nodejs)
+![Kubernetes](https://skillicons.dev/icons?i=django)
+![Kubernetes](https://skillicons.dev/icons?i=mysql)
+![Kubernetes](https://skillicons.dev/icons?i=postgresql)
+![Kubernetes](https://skillicons.dev/icons?i=mongodb)
 
-<details>
-<summary><strong>Others</strong></summary>
-  <p align="left">
-      <img src="https://img.shields.io/badge/Linux-%23E34F26.svg?style=for-the-badge&logo=linux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/docker-%2307405e.svg?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/jasper-report%23E34F26.svg?style=for-the-badge&logo=jasper&logoColor=white"/>
-  </p>
-</details>
+---
 
-#### More about me:
+## 🌟 **Let's Connect!**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alexandermamaniyucra" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-5D3FD3?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/LucasVieiraSilva"/>
-  </a>
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
-  <a href="mailto:contact@alexandermamani.com?subject=Subject&body=Hello%20there%2C%20Alex" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Gmail-5D3FD3?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=https://www.linkedin.com/in/alexandermamaniyucra"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandermamaniyucra/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=mail&logoColor=white)](mailto:contact@alexandermamani.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8fce00?style=flat-square&logo=mail&logoColor=white)](https://alexandermamani.com/)
 
-  <a href="https://github.com/akey96" alt="ProfileViews">
-    <img src="https://komarev.com/ghpvc/?username=akey96&color=5D3FD3&style=for-the-badge"/>
-  </a>
-</p>
-
+---
