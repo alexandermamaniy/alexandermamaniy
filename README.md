@@ -1,4 +1,4 @@
-# Hi there, I'm Alexander Mamani! 👋
+# Hi there, I'm Alex! 👋
 
 💡 **Passionate about building innovative solutions**
 
